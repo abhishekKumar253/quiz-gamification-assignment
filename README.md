@@ -1,25 +1,18 @@
-# Quiz Application with Gamification
+# Quiz App
 
-## Overview
-This is a web-based quiz application built using React.js. The app fetches quiz data from the provided API endpoint and presents it through an intuitive and engaging user interface. Gamification features like progress bars, timers, and badges have been implemented to enhance user experience.
-
----
+Welcome to the Quiz App! Test your knowledge with a fun and interactive quiz. This app allows you to take a quiz, view your score, and restart the quiz if you'd like.
 
 ## Features
 
-### Core Features
-- **Start Quiz**: Begin the quiz with a single click.
-- **Questions with Multiple-Choice Answers**: Answer multiple-choice questions interactively.
-- **Result Summary**: View a detailed summary of your performance upon quiz completion, including total points scored.
+- Start the quiz with a single click.
+- Answer multiple-choice questions.
+- See the time remaining for each question.
+- View your final score after completing the quiz.
+- Enjoy a confetti animation when you finish the quiz.
 
-### Bonus Features (Gamification)
-- **Progress Bar**: Visualize quiz progress with a dynamic progress bar.
-- **Timer**: Countdown timer for each question to add urgency and challenge.
-- **Badges/Awards**: Earn badges based on your performance:
-  - **"Excellent"**: 80% or higher score.
-  - **"Good Job"**: 50%-79% score.
-  - **"Try Again"**: Below 50% score.
-- **Animations**: Smooth animations for correct/incorrect answers and transitions.
+## Tech Stack
 
----
-
+- **React**: A JavaScript library for building user interfaces.
+- **React Router**: A library for routing in React.
+- **ESLint**: A tool for identifying and reporting on patterns in JavaScript.
+- **CSS**: Styling the app with custom styles.
